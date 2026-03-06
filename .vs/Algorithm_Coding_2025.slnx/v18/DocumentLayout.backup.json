@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\DataStructure_practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|solutionrelative:Algorithm_Coding_2025\\DataStructure_practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\Free_Practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|solutionrelative:Algorithm_Coding_2025\\Free_Practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\CodeMarathon_6WEEK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|solutionrelative:Algorithm_Coding_2025\\CodeMarathon_6WEEK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\DATASTUDY.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|solutionrelative:Algorithm_Coding_2025\\DATASTUDY.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\CodeMarathon_5WEEK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E33C67BA-94CE-4F59-A9DE-5A809297FB12}|Algorithm_Coding_2025\\Algorithm_Coding_2025.vcxproj|solutionrelative:Algorithm_Coding_2025\\CodeMarathon_5WEEK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataStructure_practice.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\DataStructure_practice.c",
+              "RelativeDocumentMoniker": "Algorithm_Coding_2025\\DataStructure_practice.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\DataStructure_practice.c",
+              "RelativeToolTip": "Algorithm_Coding_2025\\DataStructure_practice.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T11:42:32.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeMarathon_6WEEK.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\CodeMarathon_6WEEK.c",
+              "RelativeDocumentMoniker": "Algorithm_Coding_2025\\CodeMarathon_6WEEK.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\CodeMarathon_6WEEK.c",
+              "RelativeToolTip": "Algorithm_Coding_2025\\CodeMarathon_6WEEK.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-28T15:19:21.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DATASTUDY.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\DATASTUDY.c",
+              "RelativeDocumentMoniker": "Algorithm_Coding_2025\\DATASTUDY.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\DATASTUDY.c",
+              "RelativeToolTip": "Algorithm_Coding_2025\\DATASTUDY.c",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwJ8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-25T12:26:29.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeMarathon_5WEEK.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\CodeMarathon_5WEEK.c",
+              "RelativeDocumentMoniker": "Algorithm_Coding_2025\\CodeMarathon_5WEEK.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\CodeMarathon_5WEEK.c",
+              "RelativeToolTip": "Algorithm_Coding_2025\\CodeMarathon_5WEEK.c",
+              "ViewState": "AgIAACABAAAAAAAAAAAAADIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-21T08:00:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Free_Practice.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\Free_Practice.c",
+              "RelativeDocumentMoniker": "Algorithm_Coding_2025\\Free_Practice.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC900\uC11C\\Desktop\\Practice\\Algorithm_Coding_2025\\Algorithm_Coding_2025\\Free_Practice.c",
+              "RelativeToolTip": "Algorithm_Coding_2025\\Free_Practice.c",
+              "ViewState": "AgIAAD0JAAAAAAAAAAAAAEYJAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-04T12:38:00.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
